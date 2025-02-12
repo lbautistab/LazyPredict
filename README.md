@@ -25,3 +25,5 @@
 - Lazypredict no realiza tratamiento de datos como imputación de valores faltantes o normalización de variables de manera automática.
 
 - Lazypredict no optimiza los hiperparámetros y solo usa los valores predeterminados de scikit-learn. Para mejorar el rendimiento de los modelos, se recomienda hacer ajuste de hiperparámetros manual o automático después de identificar los modelos más prometedores.
+
+![regresion](https://github.com/user-attachments/assets/f6ec20d4-b858-4827-a34f-1e015185ddeb)
