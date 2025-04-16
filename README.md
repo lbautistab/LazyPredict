@@ -1,3 +1,6 @@
+![WhatsApp Image 2025-04-16 at 4 08 31 PM (1)](https://github.com/user-attachments/assets/b6b065ec-76a8-4604-88e8-92cd08a327c5)
+
+
 # 1. ¿Qué es Lazypredict?
 
 - Lazypredict es una biblioteca de Python que permite entrenar y evaluar rápidamente múltiples modelos de Machine Learning con el mínimo esfuerzo.
@@ -29,10 +32,8 @@
 ![regresion](https://github.com/user-attachments/assets/f6ec20d4-b858-4827-a34f-1e015185ddeb)
 
 
-Tambien puede verlo en nuestro canal de Youtube:
+Tambien puede verlo en nuestro canal de Youtube:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ltalhUtG5gA?si=kRPoDFdQAmQc-Ioj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=ltalhUtG5gA&t=15s
 
 
-
-https://youtu.be/ltalhUtG5gA?si=DlPBfswO0XwMSDC2
