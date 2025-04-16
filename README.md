@@ -27,3 +27,12 @@
 - Lazypredict no optimiza los hiperparámetros y solo usa los valores predeterminados de scikit-learn. Para mejorar el rendimiento de los modelos, se recomienda hacer ajuste de hiperparámetros manual o automático después de identificar los modelos más prometedores.
 
 ![regresion](https://github.com/user-attachments/assets/f6ec20d4-b858-4827-a34f-1e015185ddeb)
+
+
+Tambien puede verlo en nuestro canal de Youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltalhUtG5gA?si=kRPoDFdQAmQc-Ioj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+https://youtu.be/ltalhUtG5gA?si=DlPBfswO0XwMSDC2
