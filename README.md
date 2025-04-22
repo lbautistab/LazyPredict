@@ -32,7 +32,7 @@
 ![regresion](https://github.com/user-attachments/assets/f6ec20d4-b858-4827-a34f-1e015185ddeb)
 
 
-Tambien puede verlo en nuestro canal de Youtube:  
+**¡No olvide visitarnos en nuestro canal de YouTube para ver el contenido!**
 
 https://www.youtube.com/watch?v=ltalhUtG5gA&t=15s
 
